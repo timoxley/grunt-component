@@ -1,0 +1,19 @@
+{
+  "name": "grunt-component",
+  "description": "`component-build` grunt task",
+  "version": "0.0.1",
+  "author": {
+    "name": "mnmly",
+    "url": "http://mnmly.com/"
+  },
+  "main": "grunt.js",
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.10"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
